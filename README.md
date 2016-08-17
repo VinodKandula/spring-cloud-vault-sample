@@ -14,8 +14,8 @@ Download and install spring-cloud-vault-config in local maven repo
 
 Run vault in dev mode
 
-   cd spring-cloud-vault-config
-   ./vault/vault server -dev -dev-root-token-id="0000-0000-0000-0000"
+    cd spring-cloud-vault-config
+    ./vault/vault server -dev -dev-root-token-id="0000-0000-0000-0000"
 
 To run the sample app
 
