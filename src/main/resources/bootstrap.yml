@@ -1,0 +1,7 @@
+spring.cloud.vault:
+    host: localhost
+    port: 8200
+    scheme: http
+    connection-timeout: 5000
+    read-timeout: 15000
+    token: 0000-0000-0000-0000 # Non-optional to start spring application
